@@ -10,7 +10,7 @@ p {
 	font-family: Garamond, serif;
 	font-size: 18px;
 }
-div{
+.button {
     height: 50px;
     width: 120px;
     border-color: #6495ed;
